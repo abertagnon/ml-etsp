@@ -1,0 +1,1140 @@
+dimension(29).
+point(1, 83.0375250094, 6.3420932306).
+point(2, 81.3676402264, 14.5878486742).
+point(3, 84.7963313379, 1.1142620765).
+point(4, 61.1530220953, 5.344155739).
+point(5, 87.2108213655, 17.995594588).
+point(6, 86.1774379669, 3.3980162581).
+point(7, 79.0764447441, 2.5255883459).
+point(8, 72.7863511623, 0.9114337467).
+point(9, 87.0632985401, 7.7948371768).
+point(10, 74.6686009382, 4.8328246313).
+point(11, 87.5045923504, 0.7483060036).
+point(12, 98.2480099198, 18.0112281982).
+point(13, 73.4644251079, 1.1129841887).
+point(14, 66.2940397794, 4.7893593624).
+point(15, 75.6278902997, 7.1267761823).
+point(16, 18.6003879337, 70.9461616537).
+point(17, 46.2546129942, 65.8203602193).
+point(18, 21.6642778637, 70.6748320828).
+point(19, 33.7015774252, 43.8283448444).
+point(20, 38.8895300625, 64.613854755).
+point(21, 42.6042856784, 59.2877725067).
+point(22, 38.5675210443, 58.8454800513).
+point(23, 25.7782587462, 68.8303456341).
+point(24, 34.3729088843, 69.6320751836).
+point(25, 26.6165412186, 62.5484116393).
+point(26, 25.9353413931, 52.3130689949).
+point(27, 21.2228092638, 69.3849799486).
+point(28, 33.9697892123, 63.9170500316).
+point(29, 38.3191570917, 57.348847749).
+cost(1, 2, 8).
+cost(1, 3, 6).
+cost(1, 4, 22).
+cost(1, 5, 12).
+cost(1, 6, 4).
+cost(1, 7, 6).
+cost(1, 8, 12).
+cost(1, 9, 4).
+cost(1, 10, 9).
+cost(1, 11, 7).
+cost(1, 12, 19).
+cost(1, 13, 11).
+cost(1, 14, 17).
+cost(1, 15, 7).
+cost(1, 16, 91).
+cost(1, 17, 70).
+cost(1, 18, 89).
+cost(1, 19, 62).
+cost(1, 20, 73).
+cost(1, 21, 67).
+cost(1, 22, 69).
+cost(1, 23, 85).
+cost(1, 24, 80).
+cost(1, 25, 80).
+cost(1, 26, 73).
+cost(1, 27, 88).
+cost(1, 28, 76).
+cost(1, 29, 68).
+cost(2, 1, 8).
+cost(2, 3, 14).
+cost(2, 4, 22).
+cost(2, 5, 7).
+cost(2, 6, 12).
+cost(2, 7, 12).
+cost(2, 8, 16).
+cost(2, 9, 9).
+cost(2, 10, 12).
+cost(2, 11, 15).
+cost(2, 12, 17).
+cost(2, 13, 16).
+cost(2, 14, 18).
+cost(2, 15, 9).
+cost(2, 16, 84).
+cost(2, 17, 62).
+cost(2, 18, 82).
+cost(2, 19, 56).
+cost(2, 20, 66).
+cost(2, 21, 59).
+cost(2, 22, 62).
+cost(2, 23, 78).
+cost(2, 24, 72).
+cost(2, 25, 73).
+cost(2, 26, 67).
+cost(2, 27, 81).
+cost(2, 28, 68).
+cost(2, 29, 61).
+cost(3, 1, 6).
+cost(3, 2, 14).
+cost(3, 4, 24).
+cost(3, 5, 17).
+cost(3, 6, 3).
+cost(3, 7, 6).
+cost(3, 8, 12).
+cost(3, 9, 7).
+cost(3, 10, 11).
+cost(3, 11, 3).
+cost(3, 12, 22).
+cost(3, 13, 11).
+cost(3, 14, 19).
+cost(3, 15, 11).
+cost(3, 16, 96).
+cost(3, 17, 75).
+cost(3, 18, 94).
+cost(3, 19, 67).
+cost(3, 20, 78).
+cost(3, 21, 72).
+cost(3, 22, 74).
+cost(3, 23, 90).
+cost(3, 24, 85).
+cost(3, 25, 85).
+cost(3, 26, 78).
+cost(3, 27, 93).
+cost(3, 28, 81).
+cost(3, 29, 73).
+cost(4, 1, 22).
+cost(4, 2, 22).
+cost(4, 3, 24).
+cost(4, 5, 29).
+cost(4, 6, 25).
+cost(4, 7, 18).
+cost(4, 8, 12).
+cost(4, 9, 26).
+cost(4, 10, 14).
+cost(4, 11, 27).
+cost(4, 12, 39).
+cost(4, 13, 13).
+cost(4, 14, 5).
+cost(4, 15, 15).
+cost(4, 16, 78).
+cost(4, 17, 62).
+cost(4, 18, 76).
+cost(4, 19, 47).
+cost(4, 20, 63).
+cost(4, 21, 57).
+cost(4, 22, 58).
+cost(4, 23, 73).
+cost(4, 24, 70).
+cost(4, 25, 67).
+cost(4, 26, 59).
+cost(4, 27, 75).
+cost(4, 28, 65).
+cost(4, 29, 57).
+cost(5, 1, 12).
+cost(5, 2, 7).
+cost(5, 3, 17).
+cost(5, 4, 29).
+cost(5, 6, 15).
+cost(5, 7, 17).
+cost(5, 8, 22).
+cost(5, 9, 10).
+cost(5, 10, 18).
+cost(5, 11, 17).
+cost(5, 12, 11).
+cost(5, 13, 22).
+cost(5, 14, 25).
+cost(5, 15, 16).
+cost(5, 16, 87).
+cost(5, 17, 63).
+cost(5, 18, 84).
+cost(5, 19, 59).
+cost(5, 20, 67).
+cost(5, 21, 61).
+cost(5, 22, 64).
+cost(5, 23, 80).
+cost(5, 24, 74).
+cost(5, 25, 75).
+cost(5, 26, 70).
+cost(5, 27, 84).
+cost(5, 28, 70).
+cost(5, 29, 63).
+cost(6, 1, 4).
+cost(6, 2, 12).
+cost(6, 3, 3).
+cost(6, 4, 25).
+cost(6, 5, 15).
+cost(6, 7, 7).
+cost(6, 8, 14).
+cost(6, 9, 4).
+cost(6, 10, 12).
+cost(6, 11, 3).
+cost(6, 12, 19).
+cost(6, 13, 13).
+cost(6, 14, 20).
+cost(6, 15, 11).
+cost(6, 16, 96).
+cost(6, 17, 74).
+cost(6, 18, 93).
+cost(6, 19, 66).
+cost(6, 20, 77).
+cost(6, 21, 71).
+cost(6, 22, 73).
+cost(6, 23, 89).
+cost(6, 24, 84).
+cost(6, 25, 84).
+cost(6, 26, 78).
+cost(6, 27, 93).
+cost(6, 28, 80).
+cost(6, 29, 72).
+cost(7, 1, 6).
+cost(7, 2, 12).
+cost(7, 3, 6).
+cost(7, 4, 18).
+cost(7, 5, 17).
+cost(7, 6, 7).
+cost(7, 8, 6).
+cost(7, 9, 10).
+cost(7, 10, 5).
+cost(7, 11, 9).
+cost(7, 12, 25).
+cost(7, 13, 6).
+cost(7, 14, 13).
+cost(7, 15, 6).
+cost(7, 16, 91).
+cost(7, 17, 71).
+cost(7, 18, 89).
+cost(7, 19, 61).
+cost(7, 20, 74).
+cost(7, 21, 67).
+cost(7, 22, 69).
+cost(7, 23, 85).
+cost(7, 24, 81).
+cost(7, 25, 80).
+cost(7, 26, 73).
+cost(7, 27, 88).
+cost(7, 28, 76).
+cost(7, 29, 68).
+cost(8, 1, 12).
+cost(8, 2, 16).
+cost(8, 3, 12).
+cost(8, 4, 12).
+cost(8, 5, 22).
+cost(8, 6, 14).
+cost(8, 7, 6).
+cost(8, 9, 16).
+cost(8, 10, 4).
+cost(8, 11, 15).
+cost(8, 12, 31).
+cost(8, 13, 1).
+cost(8, 14, 8).
+cost(8, 15, 7).
+cost(8, 16, 89).
+cost(8, 17, 70).
+cost(8, 18, 86).
+cost(8, 19, 58).
+cost(8, 20, 72).
+cost(8, 21, 66).
+cost(8, 22, 67).
+cost(8, 23, 83).
+cost(8, 24, 79).
+cost(8, 25, 77).
+cost(8, 26, 70).
+cost(8, 27, 86).
+cost(8, 28, 74).
+cost(8, 29, 66).
+cost(9, 1, 4).
+cost(9, 2, 9).
+cost(9, 3, 7).
+cost(9, 4, 26).
+cost(9, 5, 10).
+cost(9, 6, 4).
+cost(9, 7, 10).
+cost(9, 8, 16).
+cost(9, 10, 13).
+cost(9, 11, 7).
+cost(9, 12, 15).
+cost(9, 13, 15).
+cost(9, 14, 21).
+cost(9, 15, 11).
+cost(9, 16, 93).
+cost(9, 17, 71).
+cost(9, 18, 91).
+cost(9, 19, 64).
+cost(9, 20, 74).
+cost(9, 21, 68).
+cost(9, 22, 70).
+cost(9, 23, 86).
+cost(9, 24, 81).
+cost(9, 25, 82).
+cost(9, 26, 76).
+cost(9, 27, 90).
+cost(9, 28, 77).
+cost(9, 29, 70).
+cost(10, 1, 9).
+cost(10, 2, 12).
+cost(10, 3, 11).
+cost(10, 4, 14).
+cost(10, 5, 18).
+cost(10, 6, 12).
+cost(10, 7, 5).
+cost(10, 8, 4).
+cost(10, 9, 13).
+cost(10, 11, 13).
+cost(10, 12, 27).
+cost(10, 13, 4).
+cost(10, 14, 8).
+cost(10, 15, 2).
+cost(10, 16, 87).
+cost(10, 17, 67).
+cost(10, 18, 85).
+cost(10, 19, 57).
+cost(10, 20, 70).
+cost(10, 21, 63).
+cost(10, 22, 65).
+cost(10, 23, 81).
+cost(10, 24, 76).
+cost(10, 25, 75).
+cost(10, 26, 68).
+cost(10, 27, 84).
+cost(10, 28, 72).
+cost(10, 29, 64).
+cost(11, 1, 7).
+cost(11, 2, 15).
+cost(11, 3, 3).
+cost(11, 4, 27).
+cost(11, 5, 17).
+cost(11, 6, 3).
+cost(11, 7, 9).
+cost(11, 8, 15).
+cost(11, 9, 7).
+cost(11, 10, 13).
+cost(11, 12, 20).
+cost(11, 13, 14).
+cost(11, 14, 22).
+cost(11, 15, 13).
+cost(11, 16, 98).
+cost(11, 17, 77).
+cost(11, 18, 96).
+cost(11, 19, 69).
+cost(11, 20, 80).
+cost(11, 21, 74).
+cost(11, 22, 76).
+cost(11, 23, 92).
+cost(11, 24, 87).
+cost(11, 25, 87).
+cost(11, 26, 80).
+cost(11, 27, 95).
+cost(11, 28, 83).
+cost(11, 29, 75).
+cost(12, 1, 19).
+cost(12, 2, 17).
+cost(12, 3, 22).
+cost(12, 4, 39).
+cost(12, 5, 11).
+cost(12, 6, 19).
+cost(12, 7, 25).
+cost(12, 8, 31).
+cost(12, 9, 15).
+cost(12, 10, 27).
+cost(12, 11, 20).
+cost(12, 13, 30).
+cost(12, 14, 35).
+cost(12, 15, 25).
+cost(12, 16, 96).
+cost(12, 17, 71).
+cost(12, 18, 93).
+cost(12, 19, 70).
+cost(12, 20, 75).
+cost(12, 21, 69).
+cost(12, 22, 72).
+cost(12, 23, 89).
+cost(12, 24, 82).
+cost(12, 25, 84).
+cost(12, 26, 80).
+cost(12, 27, 93).
+cost(12, 28, 79).
+cost(12, 29, 72).
+cost(13, 1, 11).
+cost(13, 2, 16).
+cost(13, 3, 11).
+cost(13, 4, 13).
+cost(13, 5, 22).
+cost(13, 6, 13).
+cost(13, 7, 6).
+cost(13, 8, 1).
+cost(13, 9, 15).
+cost(13, 10, 4).
+cost(13, 11, 14).
+cost(13, 12, 30).
+cost(13, 14, 8).
+cost(13, 15, 6).
+cost(13, 16, 89).
+cost(13, 17, 70).
+cost(13, 18, 87).
+cost(13, 19, 58).
+cost(13, 20, 72).
+cost(13, 21, 66).
+cost(13, 22, 67).
+cost(13, 23, 83).
+cost(13, 24, 79).
+cost(13, 25, 77).
+cost(13, 26, 70).
+cost(13, 27, 86).
+cost(13, 28, 74).
+cost(13, 29, 66).
+cost(14, 1, 17).
+cost(14, 2, 18).
+cost(14, 3, 19).
+cost(14, 4, 5).
+cost(14, 5, 25).
+cost(14, 6, 20).
+cost(14, 7, 13).
+cost(14, 8, 8).
+cost(14, 9, 21).
+cost(14, 10, 8).
+cost(14, 11, 22).
+cost(14, 12, 35).
+cost(14, 13, 8).
+cost(14, 15, 10).
+cost(14, 16, 82).
+cost(14, 17, 64).
+cost(14, 18, 80).
+cost(14, 19, 51).
+cost(14, 20, 66).
+cost(14, 21, 59).
+cost(14, 22, 61).
+cost(14, 23, 76).
+cost(14, 24, 72).
+cost(14, 25, 70).
+cost(14, 26, 62).
+cost(14, 27, 79).
+cost(14, 28, 67).
+cost(14, 29, 60).
+cost(15, 1, 7).
+cost(15, 2, 9).
+cost(15, 3, 11).
+cost(15, 4, 15).
+cost(15, 5, 16).
+cost(15, 6, 11).
+cost(15, 7, 6).
+cost(15, 8, 7).
+cost(15, 9, 11).
+cost(15, 10, 2).
+cost(15, 11, 13).
+cost(15, 12, 25).
+cost(15, 13, 6).
+cost(15, 14, 10).
+cost(15, 16, 86).
+cost(15, 17, 66).
+cost(15, 18, 83).
+cost(15, 19, 56).
+cost(15, 20, 68).
+cost(15, 21, 62).
+cost(15, 22, 64).
+cost(15, 23, 79).
+cost(15, 24, 75).
+cost(15, 25, 74).
+cost(15, 26, 67).
+cost(15, 27, 83).
+cost(15, 28, 70).
+cost(15, 29, 63).
+cost(16, 1, 91).
+cost(16, 2, 84).
+cost(16, 3, 96).
+cost(16, 4, 78).
+cost(16, 5, 87).
+cost(16, 6, 96).
+cost(16, 7, 91).
+cost(16, 8, 89).
+cost(16, 9, 93).
+cost(16, 10, 87).
+cost(16, 11, 98).
+cost(16, 12, 96).
+cost(16, 13, 89).
+cost(16, 14, 82).
+cost(16, 15, 86).
+cost(16, 17, 28).
+cost(16, 18, 3).
+cost(16, 19, 31).
+cost(16, 20, 21).
+cost(16, 21, 27).
+cost(16, 22, 23).
+cost(16, 23, 7).
+cost(16, 24, 16).
+cost(16, 25, 12).
+cost(16, 26, 20).
+cost(16, 27, 3).
+cost(16, 28, 17).
+cost(16, 29, 24).
+cost(17, 1, 70).
+cost(17, 2, 62).
+cost(17, 3, 75).
+cost(17, 4, 62).
+cost(17, 5, 63).
+cost(17, 6, 74).
+cost(17, 7, 71).
+cost(17, 8, 70).
+cost(17, 9, 71).
+cost(17, 10, 67).
+cost(17, 11, 77).
+cost(17, 12, 71).
+cost(17, 13, 70).
+cost(17, 14, 64).
+cost(17, 15, 66).
+cost(17, 16, 28).
+cost(17, 18, 25).
+cost(17, 19, 25).
+cost(17, 20, 7).
+cost(17, 21, 7).
+cost(17, 22, 10).
+cost(17, 23, 21).
+cost(17, 24, 12).
+cost(17, 25, 20).
+cost(17, 26, 24).
+cost(17, 27, 25).
+cost(17, 28, 12).
+cost(17, 29, 12).
+cost(18, 1, 89).
+cost(18, 2, 82).
+cost(18, 3, 94).
+cost(18, 4, 76).
+cost(18, 5, 84).
+cost(18, 6, 93).
+cost(18, 7, 89).
+cost(18, 8, 86).
+cost(18, 9, 91).
+cost(18, 10, 85).
+cost(18, 11, 96).
+cost(18, 12, 93).
+cost(18, 13, 87).
+cost(18, 14, 80).
+cost(18, 15, 83).
+cost(18, 16, 3).
+cost(18, 17, 25).
+cost(18, 19, 29).
+cost(18, 20, 18).
+cost(18, 21, 24).
+cost(18, 22, 21).
+cost(18, 23, 5).
+cost(18, 24, 13).
+cost(18, 25, 10).
+cost(18, 26, 19).
+cost(18, 27, 1).
+cost(18, 28, 14).
+cost(18, 29, 21).
+cost(19, 1, 62).
+cost(19, 2, 56).
+cost(19, 3, 67).
+cost(19, 4, 47).
+cost(19, 5, 59).
+cost(19, 6, 66).
+cost(19, 7, 61).
+cost(19, 8, 58).
+cost(19, 9, 64).
+cost(19, 10, 57).
+cost(19, 11, 69).
+cost(19, 12, 70).
+cost(19, 13, 58).
+cost(19, 14, 51).
+cost(19, 15, 56).
+cost(19, 16, 31).
+cost(19, 17, 25).
+cost(19, 18, 29).
+cost(19, 20, 21).
+cost(19, 21, 18).
+cost(19, 22, 16).
+cost(19, 23, 26).
+cost(19, 24, 26).
+cost(19, 25, 20).
+cost(19, 26, 12).
+cost(19, 27, 28).
+cost(19, 28, 20).
+cost(19, 29, 14).
+cost(20, 1, 73).
+cost(20, 2, 66).
+cost(20, 3, 78).
+cost(20, 4, 63).
+cost(20, 5, 67).
+cost(20, 6, 77).
+cost(20, 7, 74).
+cost(20, 8, 72).
+cost(20, 9, 74).
+cost(20, 10, 70).
+cost(20, 11, 80).
+cost(20, 12, 75).
+cost(20, 13, 72).
+cost(20, 14, 66).
+cost(20, 15, 68).
+cost(20, 16, 21).
+cost(20, 17, 7).
+cost(20, 18, 18).
+cost(20, 19, 21).
+cost(20, 21, 6).
+cost(20, 22, 6).
+cost(20, 23, 14).
+cost(20, 24, 7).
+cost(20, 25, 12).
+cost(20, 26, 18).
+cost(20, 27, 18).
+cost(20, 28, 5).
+cost(20, 29, 7).
+cost(21, 1, 67).
+cost(21, 2, 59).
+cost(21, 3, 72).
+cost(21, 4, 57).
+cost(21, 5, 61).
+cost(21, 6, 71).
+cost(21, 7, 67).
+cost(21, 8, 66).
+cost(21, 9, 68).
+cost(21, 10, 63).
+cost(21, 11, 74).
+cost(21, 12, 69).
+cost(21, 13, 66).
+cost(21, 14, 59).
+cost(21, 15, 62).
+cost(21, 16, 27).
+cost(21, 17, 7).
+cost(21, 18, 24).
+cost(21, 19, 18).
+cost(21, 20, 6).
+cost(21, 22, 4).
+cost(21, 23, 19).
+cost(21, 24, 13).
+cost(21, 25, 16).
+cost(21, 26, 18).
+cost(21, 27, 24).
+cost(21, 28, 10).
+cost(21, 29, 5).
+cost(22, 1, 69).
+cost(22, 2, 62).
+cost(22, 3, 74).
+cost(22, 4, 58).
+cost(22, 5, 64).
+cost(22, 6, 73).
+cost(22, 7, 69).
+cost(22, 8, 67).
+cost(22, 9, 70).
+cost(22, 10, 65).
+cost(22, 11, 76).
+cost(22, 12, 72).
+cost(22, 13, 67).
+cost(22, 14, 61).
+cost(22, 15, 64).
+cost(22, 16, 23).
+cost(22, 17, 10).
+cost(22, 18, 21).
+cost(22, 19, 16).
+cost(22, 20, 6).
+cost(22, 21, 4).
+cost(22, 23, 16).
+cost(22, 24, 12).
+cost(22, 25, 13).
+cost(22, 26, 14).
+cost(22, 27, 20).
+cost(22, 28, 7).
+cost(22, 29, 2).
+cost(23, 1, 85).
+cost(23, 2, 78).
+cost(23, 3, 90).
+cost(23, 4, 73).
+cost(23, 5, 80).
+cost(23, 6, 89).
+cost(23, 7, 85).
+cost(23, 8, 83).
+cost(23, 9, 86).
+cost(23, 10, 81).
+cost(23, 11, 92).
+cost(23, 12, 89).
+cost(23, 13, 83).
+cost(23, 14, 76).
+cost(23, 15, 79).
+cost(23, 16, 7).
+cost(23, 17, 21).
+cost(23, 18, 5).
+cost(23, 19, 26).
+cost(23, 20, 14).
+cost(23, 21, 19).
+cost(23, 22, 16).
+cost(23, 24, 9).
+cost(23, 25, 6).
+cost(23, 26, 17).
+cost(23, 27, 5).
+cost(23, 28, 10).
+cost(23, 29, 17).
+cost(24, 1, 80).
+cost(24, 2, 72).
+cost(24, 3, 85).
+cost(24, 4, 70).
+cost(24, 5, 74).
+cost(24, 6, 84).
+cost(24, 7, 81).
+cost(24, 8, 79).
+cost(24, 9, 81).
+cost(24, 10, 76).
+cost(24, 11, 87).
+cost(24, 12, 82).
+cost(24, 13, 79).
+cost(24, 14, 72).
+cost(24, 15, 75).
+cost(24, 16, 16).
+cost(24, 17, 12).
+cost(24, 18, 13).
+cost(24, 19, 26).
+cost(24, 20, 7).
+cost(24, 21, 13).
+cost(24, 22, 12).
+cost(24, 23, 9).
+cost(24, 25, 11).
+cost(24, 26, 19).
+cost(24, 27, 13).
+cost(24, 28, 6).
+cost(24, 29, 13).
+cost(25, 1, 80).
+cost(25, 2, 73).
+cost(25, 3, 85).
+cost(25, 4, 67).
+cost(25, 5, 75).
+cost(25, 6, 84).
+cost(25, 7, 80).
+cost(25, 8, 77).
+cost(25, 9, 82).
+cost(25, 10, 75).
+cost(25, 11, 87).
+cost(25, 12, 84).
+cost(25, 13, 77).
+cost(25, 14, 70).
+cost(25, 15, 74).
+cost(25, 16, 12).
+cost(25, 17, 20).
+cost(25, 18, 10).
+cost(25, 19, 20).
+cost(25, 20, 12).
+cost(25, 21, 16).
+cost(25, 22, 13).
+cost(25, 23, 6).
+cost(25, 24, 11).
+cost(25, 26, 10).
+cost(25, 27, 9).
+cost(25, 28, 7).
+cost(25, 29, 13).
+cost(26, 1, 73).
+cost(26, 2, 67).
+cost(26, 3, 78).
+cost(26, 4, 59).
+cost(26, 5, 70).
+cost(26, 6, 78).
+cost(26, 7, 73).
+cost(26, 8, 70).
+cost(26, 9, 76).
+cost(26, 10, 68).
+cost(26, 11, 80).
+cost(26, 12, 80).
+cost(26, 13, 70).
+cost(26, 14, 62).
+cost(26, 15, 67).
+cost(26, 16, 20).
+cost(26, 17, 24).
+cost(26, 18, 19).
+cost(26, 19, 12).
+cost(26, 20, 18).
+cost(26, 21, 18).
+cost(26, 22, 14).
+cost(26, 23, 17).
+cost(26, 24, 19).
+cost(26, 25, 10).
+cost(26, 27, 18).
+cost(26, 28, 14).
+cost(26, 29, 13).
+cost(27, 1, 88).
+cost(27, 2, 81).
+cost(27, 3, 93).
+cost(27, 4, 75).
+cost(27, 5, 84).
+cost(27, 6, 93).
+cost(27, 7, 88).
+cost(27, 8, 86).
+cost(27, 9, 90).
+cost(27, 10, 84).
+cost(27, 11, 95).
+cost(27, 12, 93).
+cost(27, 13, 86).
+cost(27, 14, 79).
+cost(27, 15, 83).
+cost(27, 16, 3).
+cost(27, 17, 25).
+cost(27, 18, 1).
+cost(27, 19, 28).
+cost(27, 20, 18).
+cost(27, 21, 24).
+cost(27, 22, 20).
+cost(27, 23, 5).
+cost(27, 24, 13).
+cost(27, 25, 9).
+cost(27, 26, 18).
+cost(27, 28, 14).
+cost(27, 29, 21).
+cost(28, 1, 76).
+cost(28, 2, 68).
+cost(28, 3, 81).
+cost(28, 4, 65).
+cost(28, 5, 70).
+cost(28, 6, 80).
+cost(28, 7, 76).
+cost(28, 8, 74).
+cost(28, 9, 77).
+cost(28, 10, 72).
+cost(28, 11, 83).
+cost(28, 12, 79).
+cost(28, 13, 74).
+cost(28, 14, 67).
+cost(28, 15, 70).
+cost(28, 16, 17).
+cost(28, 17, 12).
+cost(28, 18, 14).
+cost(28, 19, 20).
+cost(28, 20, 5).
+cost(28, 21, 10).
+cost(28, 22, 7).
+cost(28, 23, 10).
+cost(28, 24, 6).
+cost(28, 25, 7).
+cost(28, 26, 14).
+cost(28, 27, 14).
+cost(28, 29, 8).
+cost(29, 1, 68).
+cost(29, 2, 61).
+cost(29, 3, 73).
+cost(29, 4, 57).
+cost(29, 5, 63).
+cost(29, 6, 72).
+cost(29, 7, 68).
+cost(29, 8, 66).
+cost(29, 9, 70).
+cost(29, 10, 64).
+cost(29, 11, 75).
+cost(29, 12, 72).
+cost(29, 13, 66).
+cost(29, 14, 60).
+cost(29, 15, 63).
+cost(29, 16, 24).
+cost(29, 17, 12).
+cost(29, 18, 21).
+cost(29, 19, 14).
+cost(29, 20, 7).
+cost(29, 21, 5).
+cost(29, 22, 2).
+cost(29, 23, 17).
+cost(29, 24, 13).
+cost(29, 25, 13).
+cost(29, 26, 13).
+cost(29, 27, 21).
+cost(29, 28, 8).
+nocross(1,2).
+nocross(1,3).
+nocross(1,5).
+nocross(1,6).
+nocross(1,7).
+nocross(1,8).
+nocross(1,9).
+nocross(1,10).
+nocross(1,11).
+nocross(1,13).
+nocross(1,14).
+nocross(1,15).
+nocross(1,29).
+nocross(2,1).
+nocross(2,3).
+nocross(2,5).
+nocross(2,6).
+nocross(2,7).
+nocross(2,8).
+nocross(2,9).
+nocross(2,12).
+nocross(2,13).
+nocross(2,15).
+nocross(2,17).
+nocross(2,19).
+nocross(2,21).
+nocross(2,29).
+nocross(3,1).
+nocross(3,5).
+nocross(3,7).
+nocross(3,8).
+nocross(3,9).
+nocross(3,10).
+nocross(3,13).
+nocross(3,15).
+nocross(4,8).
+nocross(4,13).
+nocross(4,15).
+nocross(5,1).
+nocross(5,2).
+nocross(5,3).
+nocross(5,6).
+nocross(5,7).
+nocross(5,8).
+nocross(5,9).
+nocross(5,12).
+nocross(5,15).
+nocross(5,17).
+nocross(5,21).
+nocross(5,29).
+nocross(6,1).
+nocross(6,3).
+nocross(6,5).
+nocross(6,7).
+nocross(6,9).
+nocross(6,10).
+nocross(6,11).
+nocross(6,13).
+nocross(6,15).
+nocross(7,1).
+nocross(7,3).
+nocross(7,5).
+nocross(7,6).
+nocross(7,9).
+nocross(7,10).
+nocross(7,11).
+nocross(7,13).
+nocross(7,14).
+nocross(7,15).
+nocross(8,1).
+nocross(8,2).
+nocross(8,3).
+nocross(8,5).
+nocross(8,6).
+nocross(8,7).
+nocross(8,9).
+nocross(8,10).
+nocross(8,14).
+nocross(8,15).
+nocross(9,1).
+nocross(9,2).
+nocross(9,3).
+nocross(9,5).
+nocross(9,6).
+nocross(9,10).
+nocross(9,11).
+nocross(9,15).
+nocross(10,1).
+nocross(10,5).
+nocross(10,6).
+nocross(10,7).
+nocross(10,8).
+nocross(10,9).
+nocross(10,13).
+nocross(10,15).
+nocross(11,1).
+nocross(11,2).
+nocross(11,6).
+nocross(11,9).
+nocross(11,15).
+nocross(12,1).
+nocross(12,2).
+nocross(12,3).
+nocross(12,5).
+nocross(12,6).
+nocross(12,9).
+nocross(12,17).
+nocross(12,21).
+nocross(13,1).
+nocross(13,2).
+nocross(13,3).
+nocross(13,4).
+nocross(13,5).
+nocross(13,6).
+nocross(13,7).
+nocross(13,9).
+nocross(13,10).
+nocross(13,14).
+nocross(13,15).
+nocross(14,1).
+nocross(14,3).
+nocross(14,7).
+nocross(14,10).
+nocross(14,13).
+nocross(14,15).
+nocross(15,1).
+nocross(15,2).
+nocross(15,3).
+nocross(15,5).
+nocross(15,6).
+nocross(15,7).
+nocross(15,10).
+nocross(15,13).
+nocross(16,25).
+nocross(16,27).
+nocross(17,2).
+nocross(17,5).
+nocross(17,12).
+nocross(17,18).
+nocross(17,19).
+nocross(17,20).
+nocross(17,21).
+nocross(17,22).
+nocross(17,23).
+nocross(17,24).
+nocross(17,25).
+nocross(17,28).
+nocross(17,29).
+nocross(18,15).
+nocross(18,19).
+nocross(18,20).
+nocross(18,21).
+nocross(18,22).
+nocross(18,23).
+nocross(18,25).
+nocross(18,27).
+nocross(18,29).
+nocross(19,2).
+nocross(19,15).
+nocross(19,17).
+nocross(19,18).
+nocross(19,20).
+nocross(19,21).
+nocross(19,22).
+nocross(19,25).
+nocross(19,26).
+nocross(19,27).
+nocross(19,28).
+nocross(19,29).
+nocross(20,2).
+nocross(20,5).
+nocross(20,16).
+nocross(20,17).
+nocross(20,18).
+nocross(20,19).
+nocross(20,21).
+nocross(20,22).
+nocross(20,23).
+nocross(20,24).
+nocross(20,25).
+nocross(20,26).
+nocross(20,27).
+nocross(20,28).
+nocross(20,29).
+nocross(21,1).
+nocross(21,2).
+nocross(21,5).
+nocross(21,17).
+nocross(21,19).
+nocross(21,20).
+nocross(21,22).
+nocross(21,23).
+nocross(21,24).
+nocross(21,25).
+nocross(21,27).
+nocross(21,28).
+nocross(21,29).
+nocross(22,2).
+nocross(22,5).
+nocross(22,17).
+nocross(22,18).
+nocross(22,19).
+nocross(22,20).
+nocross(22,21).
+nocross(22,23).
+nocross(22,24).
+nocross(22,25).
+nocross(22,26).
+nocross(22,27).
+nocross(22,28).
+nocross(22,29).
+nocross(23,16).
+nocross(23,17).
+nocross(23,18).
+nocross(23,19).
+nocross(23,20).
+nocross(23,21).
+nocross(23,22).
+nocross(23,24).
+nocross(23,25).
+nocross(23,26).
+nocross(23,27).
+nocross(23,28).
+nocross(23,29).
+nocross(24,2).
+nocross(24,17).
+nocross(24,18).
+nocross(24,19).
+nocross(24,20).
+nocross(24,21).
+nocross(24,22).
+nocross(24,23).
+nocross(24,25).
+nocross(24,27).
+nocross(24,28).
+nocross(24,29).
+nocross(25,16).
+nocross(25,17).
+nocross(25,18).
+nocross(25,19).
+nocross(25,20).
+nocross(25,21).
+nocross(25,22).
+nocross(25,23).
+nocross(25,24).
+nocross(25,26).
+nocross(25,27).
+nocross(25,28).
+nocross(25,29).
+nocross(26,2).
+nocross(26,5).
+nocross(26,17).
+nocross(26,18).
+nocross(26,19).
+nocross(26,20).
+nocross(26,21).
+nocross(26,22).
+nocross(26,23).
+nocross(26,25).
+nocross(26,27).
+nocross(26,28).
+nocross(26,29).
+nocross(27,17).
+nocross(27,18).
+nocross(27,19).
+nocross(27,20).
+nocross(27,21).
+nocross(27,22).
+nocross(27,23).
+nocross(27,24).
+nocross(27,25).
+nocross(27,26).
+nocross(27,28).
+nocross(28,2).
+nocross(28,16).
+nocross(28,17).
+nocross(28,18).
+nocross(28,19).
+nocross(28,20).
+nocross(28,21).
+nocross(28,22).
+nocross(28,23).
+nocross(28,24).
+nocross(28,25).
+nocross(28,26).
+nocross(28,27).
+nocross(28,29).
+nocross(29,2).
+nocross(29,5).
+nocross(29,19).
+nocross(29,20).
+nocross(29,21).
+nocross(29,22).
+nocross(29,23).
+nocross(29,25).
+nocross(29,26).
+nocross(29,27).
+nocross(29,28).
